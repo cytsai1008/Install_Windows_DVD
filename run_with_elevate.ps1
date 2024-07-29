@@ -1,0 +1,1 @@
+Add-AppxProvisionedPackage -Online -PackagePath "./WindowsDVD.appxbundle" -LicensePath "./License.xml"
